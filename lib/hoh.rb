@@ -50,7 +50,6 @@ def naming_system
         }
       }
     label: "Order"
-    }
   }  
 
 
